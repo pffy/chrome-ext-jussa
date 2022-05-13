@@ -1,2 +1,2 @@
 # chrome-ext-jussa
-Chrome extension actions template with jQuery
+Chrome extension content scripts template with jQuery
